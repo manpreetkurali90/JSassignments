@@ -1,0 +1,41 @@
+Assignment For Day 2😊🥇🌿
+
+
+1. What is lexical structure?
+Ans:- its an elementry rules for language specification (Literals,reserved keywords,Texts,Comments.
+
+2. What is Unicode?
+Ans:-In Java script the identifiers and string literlas can be expressed in UNicode sequence. these can be written "\uxxxx " where x denotes the hexa decimal no.s . 
+
+3. Explain all the keywords present in the JavaScript with examples.
+Ans:- 
+
+ await	break	case	catch	class
+const	continue	debugger	default	delete
+do	else	enum	export	extends
+false	finally	for	function	if
+implements	import	in	instanceof	interface
+let	new	null	package	private
+protected	public	return	super	switch
+static	this	throw	try	true
+typeof	var	void	while	with
+yield
+
+4. What are shorthand operators, explain with a suitable example?
+Ans:-
+
+ Name			Shorthand operator	 	Meaning
+
+Addition assignment		x += f()			x = x + f()
+
+Subtraction assignment	x -= f()			x = x - f()
+
+Multiplication assignment	x *= f()			x = x * f()
+
+Division assignment		x /= f()			x = x / f()
+
+5. What is “use Strict” in JavaScript?
+Ans:-  Strict mode imposes some restrictions on some Identifiers which are not fully reserved for example 
+
+	argument and eval functions
+
